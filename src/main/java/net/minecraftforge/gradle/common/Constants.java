@@ -131,8 +131,8 @@ public class Constants {
     public static final String URL_FF = "https://files.minecraftforge.net/fernflower-fix-1.0.zip";
     public static final String URL_ASSETS = "https://resources.download.minecraft.net";
     public static final String URL_LIBRARY = "https://libraries.minecraft.net/";
-    public static final String URL_FORGE_MAVEN = "https://maven.minecraftforge.net/";
-    public static final String URL_MCP_JSON = "https://maven.minecraftforge.net/de/oceanlabs/mcp/versions.json";
+    public static final String URL_FORGE_MAVEN = "https://maven.creeperhost.net/";
+    public static final String URL_MCP_JSON = "https://maven.creeperhost.net/de/oceanlabs/mcp/versions.json";
 
     // configs
     public static final String CONFIG_MCP_DATA = "forgeGradleMcpData";
